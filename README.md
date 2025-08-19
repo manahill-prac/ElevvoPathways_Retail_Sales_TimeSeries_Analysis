@@ -68,15 +68,15 @@ This project performs a **time series analysis** on Walmart retail sales data. T
 
 ## How to Run
 
-1-Clone the repository
+Clone the repository
 ```bash
 git clone <your-repo-url>
 
-2-Install dependencies
+Install dependencies
 
 pip install -r requirements.txt
 
 
-3-Open the notebook in Google Colab or locally.
+Open the notebook in Google Colab or locally.
 
-4-All charts, insights summary, and CSV exports are generated automatically
+All charts, insights summary, and CSV exports are generated automatically
